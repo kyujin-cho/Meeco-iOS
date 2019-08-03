@@ -1,0 +1,9 @@
+input#title {
+  width: 100%;
+  border: none;
+  border-bottom: 0.5px solid black;
+}
+
+.nocategory {
+  display: none;
+}
