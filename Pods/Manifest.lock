@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.7.3)
+  - KeychainSwift (13.0.0)
+  - PromiseKit (6.8.3):
+    - PromiseKit/CorePromise (= 6.8.3)
+    - PromiseKit/Foundation (= 6.8.3)
+    - PromiseKit/UIKit (= 6.8.3)
+  - PromiseKit/Alamofire (6.8.3):
+    - Alamofire (~> 4.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (6.8.3)
+  - PromiseKit/Foundation (6.8.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.8.3):
+    - PromiseKit/CorePromise
+  - PureLayout (3.1.4)
+  - RichEditorView (5.0.0)
+  - SwiftSoup (1.7.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - KeychainSwift (~> 13.0)
+  - PromiseKit (~> 6.8)
+  - PromiseKit/Alamofire (~> 6.0)
+  - PureLayout
+  - RichEditorView
+  - SwiftSoup
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - KeychainSwift
+    - PromiseKit
+    - PureLayout
+    - RichEditorView
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  KeychainSwift: 23d6c16cbc33f20fafa30c3d783241b4b87d998c
+  PromiseKit: 94c6e781838c5bf4717677d0d882b0e7250c80fc
+  PureLayout: f08c01b8dec00bb14a1fefa3de4c7d9c265df85e
+  RichEditorView: 1bbb07b87ca2d479ac29a6877014b38b8df233ef
+  SwiftSoup: 92f5b348c131aed8af04f4326db1579ab19fa08c
+
+PODFILE CHECKSUM: bb92e54916cae4d0c649656879cd09ee3eba3c23
+
+COCOAPODS: 1.7.4
